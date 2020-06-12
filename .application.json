@@ -1,0 +1,12 @@
+{
+    "ApplicationName": "udacityWikipediaQuery",
+    "DeploymentMethod": "cloudformation",
+    "Functions": {
+        "udacityWikipediaQuery": {
+            "PhysicalId": {
+                "us-west-2": "cloud9-udacityWikipediaQuery-udacityWikipediaQuery-TYWBX63RXX99"
+            }
+        }
+    },
+    "StackName": "cloud9-udacityWikipediaQuery"
+}
